@@ -3,9 +3,9 @@ This repository contains multiple examples of pocs that exploit basic and well-k
 You can check all smart contract that are either used as target or  to attack  smart-contracts under .\contracts
 Most of the contracts being used as practice targets are from the [ethereum book](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc)
 ## Available Pocs
-parity.js: paity multisig wallet second hack
-reentrency.js: exploit for the reentrency vulnerability on EtherStore
-time_lock_attack: exploit uint overflow vulnerability on TimeLock 
+parity.js: paity multisig wallet second hack    
+reentrency.js: exploit for the reentrency vulnerability on EtherStore   
+time_lock_attack: exploit uint overflow vulnerability on TimeLock   
 ## Run Test
 To run the test use:
 ```
