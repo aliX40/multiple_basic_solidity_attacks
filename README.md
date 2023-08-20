@@ -1,6 +1,6 @@
 ## Pocs 
 This repository contains multiple examples of pocs that exploit basic and well-know solidity vulnerabilities.
-You can check all smart contract that are either used as target or  to attack  smart-contracts under .\contracts
+You can check all smart contracts that are either used as target or  to attack  smart-contracts under .\contracts
 Most of the contracts being used as practice targets are from the [ethereum book](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc)
 ## Available Pocs
 parity.js: paity multisig wallet second hack        
